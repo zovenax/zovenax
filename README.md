@@ -70,7 +70,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.web5abhijitblog.com" target="_blank">
+  <a href="https://web5abhijitblog.blogspot.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:web5abhijit@gmail.com">
