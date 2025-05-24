@@ -12,7 +12,7 @@
 - 🔐 Passionate about **Ethical Hacking & Cybersecurity**
 - 💻 Building security tools and automation scripts
 - 🌐 Full stack developer with focus on secure web applications
-- ✍️ Tech blogger at [Web5AbhijitBlog](https://www.web5abhijitblog.blogspot.com)
+- ✍️ Tech blogger at [Web5AbhijitBlog](https://web5abhijitblog.blogspot.com)
 - 🐧 Linux enthusiast and open-source contributor
 
 ---
@@ -85,6 +85,28 @@
   <a href="https://youtube.com/@web5abhijitblog" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
+</p>
+
+## 💰 Support My Work
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/hand-holding-dollar.svg" width="80" style="filter: invert(72%) sepia(63%) saturate(6311%) hue-rotate(81deg) brightness(108%) contrast(107%);"/>
+  
+  [![Support](https://img.shields.io/badge/SUPPORT%20ME-00FF00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/web5abhijitblog)
+</p>
+
+<div align="center">
+  
+| Crypto     | Address                                      |
+|------------|----------------------------------------------|
+| **BTC**    | `bc1qxy2kgdygjrsqtzq2n0yrf2493w83kxj3q6h4d6`|
+| **ETH**    | `0x12AB...cdef`                              |
+| **USDT**   | `TYsm6...VnQI`                               |
+
+</div>
+
+<p align="center">
+  <i>"Your support helps me create more security tools and educational content!"</i> 🔐
 </p>
 
 ---
