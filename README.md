@@ -9,15 +9,11 @@
 
 ## 🔍 About Me
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=22&duration=3000&pause=1000&color=00FF00&background=0F0F0F00&center=true&vCenter=true&width=435&lines=Ethical+Hacker;Full+Stack+Developer;Cybersecurity+Researcher;Tech+Blogger" alt="Typing Animation" />
-</p>
-
-- <img src="https://img.icons8.com/3d-fluency/24/00ff00/lock.png"/> **Passionate about Ethical Hacking & Cybersecurity**
-- <img src="https://img.icons8.com/3d-fluency/24/00ff00/gears.png"/> Building security tools and automation scripts
-- <img src="https://img.icons8.com/3d-fluency/24/00ff00/globe.png"/> Full stack developer with focus on secure web applications
-- <img src="https://img.icons8.com/3d-fluency/24/00ff00/blog.png"/> Tech blogger at [![Web5AbhijitBlog](https://img.shields.io/badge/Web5AbhijitBlog-00FF00?style=flat&logo=blogger&logoColor=white)](https://www.web5abhijitblog.com)
-- <img src="https://img.icons8.com/3d-fluency/24/00ff00/linux.png"/> Linux enthusiast and open-source contributor
+- 🔐 Passionate about **Ethical Hacking & Cybersecurity**
+- 💻 Building security tools and automation scripts
+- 🌐 Full stack developer with focus on secure web applications
+- ✍️ Tech blogger at [Web5AbhijitBlog](https://www.web5abhijitblog.blogspot.com)
+- 🐧 Linux enthusiast and open-source contributor
 
 ---
 
