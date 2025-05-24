@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=terminal&color=0f0f0f&height=120&section=header&text=Welcome%20to%20Web5AbhijitBlog's%20World&fontColor=00FF00&fontSize=22&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=150&section=header&text=Web5AbhijitBlog&fontSize=60&fontColor=00FF00&animation=twinkling" />
 </p>
 
 <h1 align="center">Hi, I'm Abhijit — aka Web5AbhijitBlog</h1>
