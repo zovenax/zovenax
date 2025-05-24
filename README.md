@@ -113,9 +113,9 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your WordPress Site in 2023](https://www.web5abhijitblog.com/secure-wordpress)
-- [Ethical Hacking Tools Every Beginner Should Know](https://www.web5abhijitblog.com/hacking-tools)
-- [Automating Security Testing with Python](https://www.web5abhijitblog.com/python-security)
+- [Top-rated alternatives for Google Adsense (2021)](https://web5abhijitblog.blogspot.com/2021/11/top-best-google-adsense-alternatives.html)
+- [10 Often Overlooked SEO Techniques for Small Businesses](https://web5abhijitblog.blogspot.com/2023/01/10-often-overlooked-seo-techniques-for.html)
+- [Exploring Top Free Alternatives to Cloudflare for Enhanced Website Performance and Security](https://web5abhijitblog.blogspot.com/2024/02/cloudflare-alternatives.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
