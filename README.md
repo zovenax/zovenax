@@ -99,9 +99,9 @@
   
 | Crypto     | Address                                      |
 |------------|----------------------------------------------|
-| **BTC**    | `bc1qxy2kgdygjrsqtzq2n0yrf2493w83kxj3q6h4d6`|
-| **ETH**    | `0x12AB...cdef`                              |
-| **USDT**   | `TYsm6...VnQI`                               |
+| **Bitcoin (BTC)**    | `1Kdxu2qQKki5iUK4yPqgh5Y4zuBM89PKbd`|
+| **Toncoin (TON)**    | `UQCa3fHmmuJSxSja_LnGqaXPUto0A71mrDCFum3xpNxD_mGO`                              |
+| **USDT (TRC-20)**   | `TC1RxxbUt1VHi5gsZpxhDTZ2giKWpbQkqR`                               |
 
 </div>
 
