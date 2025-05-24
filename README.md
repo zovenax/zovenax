@@ -16,7 +16,20 @@
 - 🐧 Linux enthusiast and open-source contributor
 
 ---
+## 🚀 Professional Journey
 
+# Timeline
+2015-2019  | Self-taught programming & security fundamentals
+2020-Present | Launched Web5AbhijitBlog as full-time venture
+
+# Key Milestones
+• Developed 50+ custom security tools
+• Grew YouTube audience to 1K+ subscribers
+• Served 200+ SEO clients
+• Established ethical hacking product line
+
+
+---
 ## 🛠️ Tech Stack
 
 ### Programming Languages
