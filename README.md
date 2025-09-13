@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">Hi, I'm Abhijit — aka Web5AbhijitBlog</h1>
-<h3 align="center">Ethical Hacker | Full Stack Developer | Cybersecurity Researcher | Tech Blogger</h3>
+<h3 align="center">Full Stack Developer | Graphic Designer | Tech Blogger</h3>
 
 ---
 
 ## 🔍 About Me
 
-- 🔐 Passionate about **Ethical Hacking & Cybersecurity**
+- 🔐 Passionate about **Website Developer**
 - 💻 Building security tools and automation scripts
 - 🌐 Full stack developer with focus on secure web applications
 - ✍️ Tech blogger at [Web5AbhijitBlog](https://web5abhijitblog.blogspot.com)
@@ -26,7 +26,7 @@
 • Developed 50+ custom security tools
 • Grew YouTube audience to 1K+ subscribers
 • Served 200+ SEO clients
-• Established ethical hacking product line
+• Established e-commerce product line
 
 
 ---
@@ -89,13 +89,13 @@
   <a href="mailto:web5abhijit@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/web5abhijitblog" target="_blank">
+  <a href="https://linkedin.com/in/zovenax" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/web5abhijitblog" target="_blank">
+  <a href="https://twitter.com/zovenax" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/@web5abhijitblog" target="_blank">
+  <a href="https://youtube.com/@zovenax" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
 </p>
