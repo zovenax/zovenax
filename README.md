@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=150&section=header&text=Zovenax&fontSize=60&fontColor=00FF00&animation=twinkling" />
 </p>
 
-<h1 align="center">Hi, I'm Abhijit — aka Web5AbhijitBlog</h1>
+<h1 align="center">Hi, I'm Abhijit — aka Zovenax</h1>
 <h3 align="center">Full Stack Developer | Graphic Designer | Tech Blogger</h3>
 
 ---
